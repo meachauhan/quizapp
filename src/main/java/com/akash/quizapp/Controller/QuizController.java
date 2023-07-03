@@ -15,7 +15,6 @@ import com.akash.quizapp.model.QuestionWrapper;
 import com.akash.quizapp.model.Response;
 import com.akash.quizapp.service.QuizService;
 
-import jakarta.persistence.criteria.CriteriaBuilder.In;
 
 @RestController
 @RequestMapping("quiz")
